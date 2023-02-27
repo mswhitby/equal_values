@@ -15,3 +15,6 @@ is_same_val(2, "2") ➞ False
 <br/>
 
 [Start Problem](https://replit.com/team/whs-spring-2023/Equal-Values)
+
+[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
